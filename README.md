@@ -9,9 +9,11 @@
 - Oracle DB
 - Mongo DB
 
-
+  <div align=center>
+  
   [![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/ashin526/)](https://www.linkedin.com/in/ashin526/)
-
+  
+</div>
 <!--
 **ashin526/ashin526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
