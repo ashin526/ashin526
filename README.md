@@ -1,4 +1,4 @@
-### Hi there 👋
+### Passion Designer, Not fashion 👋
 
 <!--
 **ashin526/ashin526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
