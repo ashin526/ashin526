@@ -1,5 +1,14 @@
 ### Passion Designer, Not fashion 👋
 
+### Interest
+- Javascript
+- HTML
+- CSS
+- React
+- Angular
+- Oracle DB
+- Mongo DB
+
 <!--
 **ashin526/ashin526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
