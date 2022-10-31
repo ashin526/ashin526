@@ -1,11 +1,11 @@
 ### Passion Designer, Not fashion 👋
 
 ### Interest
+- C
+- C++
 - Javascript
 - HTML
 - CSS
-- React
-- Angular
 - Oracle DB
 - Mongo DB
 
